@@ -293,7 +293,7 @@
 					</categories>
 				</equipment>
 			</equipment_container>
-			<equipment_container version="4" open="no">
+			<equipment_container version="4" open="yes">
 				<description>Sage</description>
 				<legality_class>4</legality_class>
 				<value>0</value>
@@ -704,11 +704,12 @@
 					</equipment>
 					<equipment version="4">
 						<quantity>18</quantity>
-						<description>.454 Casull (11.43x35mmR)</description>
+						<description>.454 Casull (11.43x35mmR) HP</description>
 						<legality_class>4</legality_class>
 						<value>1</value>
 						<weight>0.066 lb</weight>
 						<reference>HT176</reference>
+						<notes>4d(0.5) pi++</notes>
 						<categories>
 							<category>Ammunition and Warheads</category>
 						</categories>
